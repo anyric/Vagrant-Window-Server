@@ -1,5 +1,5 @@
 # Vagrant-Window-Server
-Vagrant configuration file for setting up Windows Server on local VirtualBox 
+Creating Windows Server on Localhost using VirtualBox, Vagrant and Powershell Script 
 
 ### Tool set
 * VirtualBox
